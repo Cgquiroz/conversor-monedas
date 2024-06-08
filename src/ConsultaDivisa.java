@@ -5,7 +5,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConsultaDivisa {
-    String apiKey = "1854c8b67363fddbed2fc833";
+    String apiKey = "YOUR API KEY";
 
     public Divisa convierteDivisa(String inicial,
                                   String deseada,
